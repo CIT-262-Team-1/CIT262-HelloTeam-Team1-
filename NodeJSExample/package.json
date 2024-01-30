@@ -1,0 +1,25 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "For CIT 262",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node helloworld.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhostLeader119/CIT-262-Core.git"
+  },
+  "keywords": [
+    "test",
+    "school",
+    "CIT-262"
+  ],
+  "author": "C.C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhostLeader119/CIT-262-Core/issues"
+  },
+  "homepage": "https://github.com/GhostLeader119/CIT-262-Core#readme"
+}
