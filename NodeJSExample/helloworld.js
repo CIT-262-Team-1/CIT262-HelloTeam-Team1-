@@ -1,3 +1,3 @@
 console.log("Hello ")
 
-let our_names = ["Caden"]
+let our_names = ["Caden", "Luke"]
