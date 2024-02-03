@@ -1,5 +1,5 @@
 let our_names = ["Caden", "Josh", "Luke", "Cameron", "Waheed"]
 
-for (const name of our_names) {
-    console.log("Hello " + name);
-}
+our_names.forEach(name => {
+    console.log("Hello "+ name)
+});
